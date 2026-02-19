@@ -65,6 +65,5 @@ how data visualization can pinpoint operational inefficiencies.
 🔗🗂️**Technical Impact**
 This repository provides a blueprint for end-to-end sales analysis, offering a clean, 
 documented dataset and a reproducible visualization framework suitable for retail analysts and supply chain managers.
+
 <img width="770" height="432" alt="amazon dashboard " src="https://github.com/user-attachments/assets/3444bd62-ea08-4af1-8e96-e07cfef3e265" />
-<img width="770" height="432" alt="amazon dashboard " src="https://github.com/user-attachments/assets/f339e655-5ba3-48fe-b5f6-d83d22191170" />
-<img width="770" height="432" alt="amazon dashboard " src="https://github.com/user-attachments/assets/c3437616-e2cb-4542-af8d-f98ffaa355cc" />
