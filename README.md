@@ -22,6 +22,8 @@ shipping mode effectiveness, and regional sales distribution.
   Ship Mode               String                      Delivery method (Standard Class, First Class, Second Class, Same Day).
   Region                  String                      Geographic area (West, East, Central, South).
   Shipment Cost           Numeric                     The internal cost to ship the order to the customer.
+<img width="401" height="347" alt="amazon dashboard problem statement" src="https://github.com/user-attachments/assets/f385b6ee-8596-44da-a7f9-0d8d3ff01ed9" />
+
 
 🛠️ **Tech Stack**
 $$ Data Source: Excel (cleaned and formatted)
@@ -62,8 +64,18 @@ The analysis revealed critical insights, such as the diminishing returns on spec
 and the hidden overhead of "Same Day" shipping on low-value items. By centralizing these metrics, the project demonstrates
 how data visualization can pinpoint operational inefficiencies.
 
+
 🔗🗂️**Technical Impact**
 This repository provides a blueprint for end-to-end sales analysis, offering a clean, 
 documented dataset and a reproducible visualization framework suitable for retail analysts and supply chain managers.
 
 <img width="770" height="432" alt="amazon dashboard " src="https://github.com/user-attachments/assets/3444bd62-ea08-4af1-8e96-e07cfef3e265" />
+
+
+
+
+
+
+
+⚖️ Disclaimer: 
+              The dataset used in this project is for educational and portfolio purposes only. While it reflects real-world e-commerce scenarios, the customer names, transaction IDs, and specific financial figures are either synthetic or part of a public training dataset. This analysis does not represent the actual financial performance or internal data of Amazon.com Inc.
